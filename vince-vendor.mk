@@ -1121,5 +1121,4 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
-    qti-telephony-common \
     chargeonlymode
